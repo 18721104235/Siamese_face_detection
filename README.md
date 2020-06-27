@@ -2,7 +2,7 @@ face_detection 人脸识别
 
 
 运行环境：
-Ubuntu Version: 20.04
+1. Ubuntu Version: 20.04
 gcc version: 7.5.0
 NVIDIA-SMI: 440.64
 Driver Version: 440.64
